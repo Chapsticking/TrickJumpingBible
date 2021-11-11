@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9dd93672c1a7dfd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc69a38d31872c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Start Here/The Trick Jumping Bible.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e71410a974a1e8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de41b124dfd7842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e17237526f5cd2e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "23f671cb08c140ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c14e0d5f648e9f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4651f7fc5134b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c9c3dc92efc20a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Start Here/The Trick Jumping Bible.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "edc69a38d31872c9",
+  "lastOpenFiles": [
+    "1. Start Here/The Trick Jumping Bible.md",
+    "README.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/The Trick Jumping Journey.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md"
+  ]
+}
