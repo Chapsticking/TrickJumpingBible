@@ -14,15 +14,54 @@
             "mode": "preview"
           },
           "pinned": true
-        }
+        },
+        "group": "94fbe3bd447210c2"
       },
       {
-        "id": "be68707ec8060035",
+        "id": "559e7bd1ff2dd5ee",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.7132754626224431,
+              "close": false
+            }
+          },
+          "pinned": true
+        },
+        "group": "94fbe3bd447210c2"
+      },
+      {
+        "id": "b240c7828aa4e943",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
+            "file": "1. Start Here/The Trick Jumping Bible.md",
             "mode": "source"
           }
         }
@@ -81,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
+                "file": "1. Start Here/The Trick Jumping Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be68707ec8060035",
+  "active": "b240c7828aa4e943",
   "lastOpenFiles": [
-    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Pressure Launch.md",
     "1. Start Here/The Trick Jumping Bible.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3 ODST.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/The Trick Jumping Journey.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/General Information/KBM.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/General.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md",
     "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Surfing.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Slide.md"
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Rubble.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Stack.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Ghost.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/General.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Pressure Launch.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3 ODST.md"
   ]
 }

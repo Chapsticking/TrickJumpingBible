@@ -1,6 +1,6 @@
 # General Category
+Standard jumping techniques that can assist you with thet other techniques.
 
-# What is it?
 Jump Technique | Jumping Class | Difficulty
 ------------ | ------------ | ------------
 [[Long-Jump]] | [[Un-Aided]] | 🌟
