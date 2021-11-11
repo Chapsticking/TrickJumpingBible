@@ -4,13 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "edc69a38d31872c9",
+        "id": "5bb63bef933d5524",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "be68707ec8060035",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Start Here/The Trick Jumping Bible.md",
-            "mode": "preview"
+            "file": "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Start Here/The Trick Jumping Bible.md",
+                "file": "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edc69a38d31872c9",
+  "active": "be68707ec8060035",
   "lastOpenFiles": [
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Curve-Jump.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Pressure Launch.md",
     "1. Start Here/The Trick Jumping Bible.md",
-    "README.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3 ODST.md",
     "Halo Trick Jumping/The Trick Jumping Journey/The Trick Jumping Journey.md",
-    "Halo Trick Jumping/The Trick Jumping Journey/Games/Halo 3.md"
+    "Halo Trick Jumping/The Trick Jumping Journey/General Information/KBM.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/General.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Surfing.md",
+    "Halo Trick Jumping/The Trick Jumping Journey/Jumping Techniques/Slide.md"
   ]
 }

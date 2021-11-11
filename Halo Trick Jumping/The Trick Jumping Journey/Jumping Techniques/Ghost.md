@@ -1,6 +1,6 @@
 # Ghost Category
 
-# What is it?
+This category of jumping refers to being able to jump off an area of the map that was not intended by the developers. You can think of it as a double jump.
 
 Jump Technique | Jumping Class | Difficulty
 ------------ | ------------ | ------------
